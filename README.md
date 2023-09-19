@@ -1,2 +1,2 @@
-# basic_of_pandas_
-Pandas: Python library for data manipulation, providing Series and DataFrame data structures, data selection, cleaning, alignment, aggregation, visualization, I/O operations, data transformation, and data analysis.
+# basic_of_python
+Python is a versatile, high-level programming language known for its readability and ease of use, making it widely used for web development, data analysis, and automation.
